@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "algorytm2": {
+      "commandName": "Project",
+      "commandLineArgs": "0 20 0 20 20 40 70 100 20 90"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorytm2", "algorytm2\algorytm2.csproj", "{0B7DC64B-801A-4CE1-9860-F3D4F8D33C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B7DC64B-801A-4CE1-9860-F3D4F8D33C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7DC64B-801A-4CE1-9860-F3D4F8D33C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7DC64B-801A-4CE1-9860-F3D4F8D33C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7DC64B-801A-4CE1-9860-F3D4F8D33C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EE94D2C-533C-4CFD-AFE3-6D4136470038}
+	EndGlobalSection
+EndGlobal
